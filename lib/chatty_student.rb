@@ -7,7 +7,7 @@ class ChattyStudent < Student
   def raised_hand
     super
     10.times do
-      
+    end
   end
   
 end 
