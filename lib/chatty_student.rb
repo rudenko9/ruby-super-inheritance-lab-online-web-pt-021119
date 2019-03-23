@@ -9,5 +9,5 @@ class ChattyStudent < Student
   10.times
   puts  "Pick me!
   end
-  
+end
 end 
